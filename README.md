@@ -1,4 +1,4 @@
-This is a basic Memory Game
+This is a basic Memory Game.
 
 ## Getting Started
 
